@@ -20,3 +20,29 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+
+  a {
+    
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: rgb(102, 26, 7);
+    background-color:rgba(100, 148, 237, 0.288);
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    text-emphasis-color: rgba(59, 138, 7, 0.733);
+
+  }
+  a:hover {
+      background-color: rgba(220, 20, 60, 0.432);
+      color: #000;
+      
+  }
+  .t {
+      border: none;
+      text-align: left;
+      padding: 8px;
+  }
