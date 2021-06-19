@@ -11,10 +11,10 @@ const links = [
         descrip:'Advanced Algorithms Youtube Playlist by harvard university',
         btnName:'advanced algos(COMPSCI 224)'
     },
-    {   type:'',
-        link:'',    
-        descrip:'',
-        btnName:''
+    {   type:'Discrete Maths',
+        link:'https://www.youtube.com/playlist?list=PLB7540DEDD482705B',    
+        descrip:'MIT 6.042J Mathematics for Computer Science, Fall 2010',
+        btnName:'Playlist'
     },
     {   type:'',
         link:'',    
