@@ -6,10 +6,10 @@ const links = [
         descrip:' CS50 playlists ',
         btnName: 'CS50 youtube'
     },
-    {   type:'',
-        link:'',    
-        descrip:'',
-        btnName:''
+    {   type:'Algorithms',
+        link:'https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf',    
+        descrip:'Advanced Algorithms Youtube Playlist by harvard university',
+        btnName:'advanced algos(COMPSCI 224)'
     },
     {   type:'',
         link:'',    
