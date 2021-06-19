@@ -17,8 +17,11 @@ table {
     padding: 8px;
   }
   
-  tr:nth-child(even) {
+  td:nth-child(odd) {
     background-color: #dddddd;
+  }
+  td:nth-child(even){
+    background-color: cornsilk;
   }
 
   a {
@@ -45,4 +48,5 @@ table {
       border: none;
       text-align: left;
       padding: 8px;
+      background-color: none;
   }
