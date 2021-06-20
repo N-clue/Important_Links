@@ -16,16 +16,32 @@ const links = [
         descrip:'MIT 6.042J Mathematics for Computer Science, Fall 2010',
         btnName:'Playlist'
     },
+    {   type:'ISRO',
+        link:'https://www.geeksforgeeks.org/isro-original-papers-official-keys/',    
+        descrip:'ISRO GFG PAPERS for ISRO',
+        btnName:'official keys'
+    },
     {   type:'',
+        link:'https://www.geeksforgeeks.org/isro-cs-preparation/',    
+        descrip:'ISRO CS PREPARATION',
+        btnName:'ISRO CS'
+    },
+        {   type:'',
+        link:'https://www.geeksforgeeks.org/gate-cs-notes-gq/',    
+        descrip:'ISRO NOTES',
+        btnName:'GATE notes'
+    },
+        {   type:'',
         link:'',    
         descrip:'',
         btnName:''
     },
-    {   type:'',
+        {   type:'',
         link:'',    
         descrip:'',
         btnName:''
     }
+
     
     
 ];
