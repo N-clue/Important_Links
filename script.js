@@ -31,10 +31,10 @@ const links = [
         descrip:'ISRO NOTES',
         btnName:'GATE notes'
     },
-        {   type:'',
-        link:'',    
-        descrip:'',
-        btnName:''
+        {   type:'DSA',
+        link:'https://timroughgarden.org/videos.html',    
+        descrip:'Tim Roughgarden\'s Online Courses',
+        btnName:'courses list website'
     },
         {   type:'',
         link:'',    
