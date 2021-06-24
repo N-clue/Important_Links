@@ -37,9 +37,9 @@ const links = [
         btnName:'courses list website'
     },
         {   type:'',
-        link:'',    
-        descrip:'',
-        btnName:''
+        link:'https://practice.geeksforgeeks.org/batch/DSA-Workshop/',    
+        descrip:'GFG DSA WORKSHOP(VALID TILL 31st DECEMBER)',
+        btnName:'GFG PRACTICE'
     }
 
     
