@@ -26,22 +26,87 @@ const links = [
         descrip:'ISRO CS PREPARATION',
         btnName:'ISRO CS'
     },
-        {   type:'',
+    {   type:'',
         link:'https://www.geeksforgeeks.org/gate-cs-notes-gq/',    
         descrip:'ISRO NOTES',
         btnName:'GATE notes'
     },
-        {   type:'DSA',
+    {   type:'DSA',
         link:'https://timroughgarden.org/videos.html',    
         descrip:'Tim Roughgarden\'s Online Courses',
         btnName:'courses list website'
     },
-        {   type:'',
+    {   type:'',
         link:'https://practice.geeksforgeeks.org/batch/DSA-Workshop/',    
         descrip:'GFG DSA WORKSHOP(VALID TILL 31st DECEMBER)',
         btnName:'GFG PRACTICE'
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
+    },
+    {
+        type:'',
+        link:'',
+        descrip:'',
+        btnName:''
     }
-
     
     
 ];
