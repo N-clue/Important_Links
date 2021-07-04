@@ -42,22 +42,22 @@ const links = [
         btnName:'GFG PRACTICE'
     },
     {
-        type:'',
-        link:'',
-        descrip:'',
-        btnName:''
+        type:'Computer Science Course',
+        link:'https://ops-class.org/slides/',
+        descrip:'Lecture slides and videos of "Hack the kernel course"',
+        btnName:'hack the kernel'
     },
     {
         type:'',
-        link:'',
-        descrip:'',
-        btnName:''
+        link:'https://missing.csail.mit.edu/',
+        descrip:'missing semester of your cs education MIT',
+        btnName:'missing sem'
     },
     {
         type:'',
-        link:'',
-        descrip:'',
-        btnName:''
+        link:'https://functionalcs.github.io/curriculum/#org0ecde6f',
+        descrip:'A self learning computer Science Curriculum',
+        btnName:'CS course'
     },
     {
         type:'',
