@@ -60,10 +60,10 @@ const links = [
         btnName:'CS course'
     },
     {
-        type:'',
-        link:'',
-        descrip:'',
-        btnName:''
+        type:'Programming Contest Listing Website',
+        link:'https://clist.by',
+        descrip:'List of upcoming and ongoing coding contests',
+        btnName:'contest list'
     },
     {
         type:'',
